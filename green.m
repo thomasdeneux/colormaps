@@ -2,6 +2,8 @@ function map = green(n)
 % function map = green(n)
 %---
 % creates a black-green-white colormap
+%
+% See also white_green, black_green
 
 if nargin<1, n=256; end
 p = floor(n/2);
