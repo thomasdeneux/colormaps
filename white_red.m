@@ -1,5 +1,5 @@
 function map = white_red(n)
-% function map = red(n)
+% function map = white_red(n)
 %---
 % creates a white-red colormap
 % 
